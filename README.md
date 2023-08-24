@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joabdevelop
-- 👀 I’m interested in HTML/CSS || JavaScript || BootStrap || React
-- 🌱 I’m currently learning Java || PHP || C++
+- 👀 I’m interested in Java || PHP || C++ 
+- 🌱 I’m currently learning HTML/CSS || JavaScript || BootStrap || React
 - 📫 How to reach me joabdevelop@gmail.com
 
 <!---

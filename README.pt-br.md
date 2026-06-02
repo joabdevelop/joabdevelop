@@ -1,46 +1,64 @@
-<div align="right">
-  <strong>Idiomas:</strong>
-  <a href="README.pt-br.md">🇧🇷 Português</a> | 
-  <a href="README.md">🇺🇸 English</a>
-</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Joabe!;Engenheiro+de+Software+em+forma%C3%A7%C3%A3o;Especialista+em+Java+%26+Cloud+AWS;Construindo+o+futuro+do+Backend" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Joabe%20Souza&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer&descAlignY=62&descFontSize=20" width="100%" />
+
+  <br />
+
+  <a href="README.md">🇺🇸 **English**</a> • <a href="README.pt-br.md">🇧🇷 **Português**</a>
+
+  <br /><br />
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-### 💫 Sobre Mim
-Estudante de Pós-graduação em Engenharia de Software focado em construir sistemas escaláveis e resilientes. Atualmente, mergulhando fundo no ecossistema **Java**, arquitetura de nuvem com **AWS** e orquestração de containers com **Docker**.
+<br />
 
-- 🔭 **Foco Atual:** Arquitetura de Microserviços e Engenharia de Prompt.
-- 🌱 **Aprendendo:** Deep Dive em AWS (EC2, RDS, S3) e Bancos de Dados Relacionais.
-- 🎯 **Objetivo:** Evoluir de executor para um arquiteto de sistemas estratégico.
-- ⚡ **Filosofia:** "Código limpo é código que conta uma história."
+### 🚀 Sobre Mim
+Olá! Eu sou o **Joabe**, um desenvolvedor focado em construir sistemas escaláveis e eficientes. Atualmente, curso Pós-graduação em **Engenharia de Software**, mergulhando fundo na arquitetura de microserviços e infraestrutura Cloud.
+
+- 🔭 **Projetos Recentes:** Desenvolvi o **AudioPulse** e **StudyScribe** (IA + Extensões Chrome).
+- 🌱 **Evoluindo em:** AWS (EC2, RDS, S3) e orquestração com Docker.
+- 💬 **Ask me about:** Java, Spring Boot e por que código limpo importa.
+- ⚡ **Fun fact:** Acredito que a lógica de programação é a arte de resolver problemas antes de tocar no teclado.
 
 ---
 
-### 🛠️ Minha Stack Tecnológica
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,aws,linux,postgres,mysql,mongodb,php,laravel,js,html,css,git,github,maven" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,mongodb,docker,aws,linux,git,github,vscode,js,php,laravel" />
 </div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 My GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joabdevelop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabdevelop&layout=compact&theme=tokyonight" />
+  <p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joabdevelop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabdevelop&layout=compact&theme=tokyonight&hide_border=true" />
+  </p>
+  
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=joabdevelop&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📬 Connect with me
+
 <div align="center">
   <a href="https://linkedin.com/in/joabdevelop" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:joabdevelop@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=joabdevelop&color=36BCF7&style=flat-square&label=PERFIL+VISITADO" />
 </div>

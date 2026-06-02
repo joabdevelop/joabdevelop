@@ -1,66 +1,65 @@
 <div align="center">
-  
-  <!-- Banner Dinâmico e Estável -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Ol%C3%A1%2C+eu+sou+o+Joabe!;Software+Engineer;Backend+Developer;Java+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/render?type=venom&color=00FF41&height=200&section=header&text=JOABE%20SOUZA&fontSize=80&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20DEVELOPER&descAlignY=62&descFontSize=20" width="100%" />
 
-  <p align="center">
-    <a href="README.md">🇺🇸 English</a> • 
-    <a href="README.pt-br.md">🇧🇷 Português</a>
-  </p>
+  <br />
 
-  <br/>
+  <a href="README.pt-br.md">🇧🇷 **Português**</a> • <a href="README.md">🇺🇸 **English**</a>
 
-  <!-- Badges de Destaque -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <br /><br />
 
+  <img src="https://img.shields.io/badge/JAVA-%2300FF41?style=for-the-badge&logo=openjdk&logoColor=black" />
+  <img src="https://img.shields.io/badge/SPRING_BOOT-%2300FF41?style=for-the-badge&logo=spring-boot&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-%2300FF41?style=for-the-badge&logo=amazon-aws&logoColor=black" />
+  <img src="https://img.shields.io/badge/DOCKER-%2300FF41?style=for-the-badge&logo=docker&logoColor=black" />
+</div>
+
+<br />
+
+### 🟢 Sistema Operacional: Engenharia de Software
+Olá! Eu sou o **Joabe**, um desenvolvedor focado em construir o "motor" das aplicações. Atualmente estou mergulhado em **Java** e arquitetura de nuvem **AWS**, transformando lógica complexa em sistemas eficientes e escaláveis.
+
+- 🧬 **DNA Técnico:** Java, Spring Boot e Microsserviços.
+- ☁️ **Infraestrutura:** Docker e Cloud AWS (EC2, RDS, S3).
+- 🛠️ **Missão:** Evoluir de executor para arquiteto de sistemas estratégico.
+- ⚡ **Compromisso:** Código limpo, testado e documentado.
+
+---
+
+### 🛠️ Arsenal Tecnológico (Matrix Stack)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,mongodb,docker,aws,linux,git,github,vscode,js,php,laravel&perline=8&theme=dark" />
+</div>
+
+---
+
+### 📊 Diagnóstico de Atividade
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joabdevelop&show_icons=true&theme=matrix&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabdevelop&layout=compact&theme=matrix&hide_border=true" />
 </div>
 
 <br/>
 
-## 🚀 Sobre Mim
-Olá! 👋 Sou um desenvolvedor focado em **Engenharia de Software Backend**. Atualmente, estou cursando Pós-graduação e focando em criar sistemas escaláveis, resilientes e de alta performance. 
-
-Meu objetivo é dominar a arquitetura de microserviços e infraestrutura Cloud (AWS), sempre aplicando as melhores práticas de **Clean Code** e **Design Patterns**.
-
----
-
-## 🛠️ Tecnologias & Habilidades
-
+### 🐍 Snake Game (Contribuições)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,mongodb,docker,aws,linux,git,github,vscode,js,php,laravel&perline=8" />
+  <img src="https://raw.githubusercontent.com/joabdevelop/joabdevelop/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## 📈 Atividade no GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joabdevelop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabdevelop&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=joabdevelop&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 📬 Vamos Conversar?
+### 📬 Entrar na Matrix
 <div align="center">
   <a href="https://linkedin.com/in/joabdevelop" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-%2300FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="mailto:joabdevelop@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-%2300FF41?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joabdevelop&color=36BCF7&style=flat-square&label=VISITANTES" />
+  <img src="https://komarev.com/ghpvc/?username=joabdevelop&color=00FF41&style=flat-square&label=ACESSOS+AO+TERMINAL" />
 </div>

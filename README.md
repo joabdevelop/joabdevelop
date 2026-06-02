@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Joabe%20Souza&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer&descAlignY=62&descFontSize=20" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Joabe!;Software+Engineer;Backend+Developer" alt="Typing SVG" />
 
   <br />
 
@@ -33,15 +33,11 @@ Hi! I'm **Joabe**, a developer focused on building scalable and efficient system
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joabdevelop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabdevelop&layout=compact&theme=tokyonight&hide_border=true" />
-  </p>
-  
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=joabdevelop&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joabdevelop&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabdevelop&layout=compact&theme=radical" />
 </div>
 
 ---

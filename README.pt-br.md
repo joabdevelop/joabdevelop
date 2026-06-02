@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Joabe%20Souza&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer&descAlignY=62&descFontSize=20" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=Ol%C3%A1%2C+eu+sou+o+Joabe!;Hi%2C+I'm+Joabe!;Software+Engineer;Backend+Developer" alt="Typing SVG" />
 
   <br />
 
@@ -20,8 +20,8 @@ Olá! Eu sou o **Joabe**, um desenvolvedor focado em construir sistemas escaláv
 
 - 🔭 **Projetos Recentes:** Desenvolvi o **AudioPulse** e **StudyScribe** (IA + Extensões Chrome).
 - 🌱 **Evoluindo em:** AWS (EC2, RDS, S3) e orquestração com Docker.
-- 💬 **Ask me about:** Java, Spring Boot e por que código limpo importa.
-- ⚡ **Fun fact:** Acredito que a lógica de programação é a arte de resolver problemas antes de tocar no teclado.
+- 💬 **Fale comigo sobre:** Java, Spring Boot e por que código limpo importa.
+- ⚡ **Curiosidade:** Acredito que a lógica de programação é a arte de resolver problemas antes de tocar no teclado.
 
 ---
 
@@ -33,32 +33,28 @@ Olá! Eu sou o **Joabe**, um desenvolvedor focado em construir sistemas escaláv
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joabdevelop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabdevelop&layout=compact&theme=tokyonight&hide_border=true" />
-  </p>
-  
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=joabdevelop&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joabdevelop&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabdevelop&layout=compact&theme=radical" />
 </div>
 
 ---
 
-### 📬 Connect with me
+### 📬 Vamos nos conectar?
 
 <div align="center">
   <a href="https://linkedin.com/in/joabdevelop" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:joabdevelop@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joabdevelop&color=36BCF7&style=flat-square&label=PERFIL+VISITADO" />
+  <img src="https://komarev.com/ghpvc/?username=joabdevelop&color=36BCF7&style=flat-square&label=VISITAS" />
 </div>

@@ -1,86 +1,67 @@
 <div align="center">
   
-  <!-- Banner Animado Garantido (GIF de alta qualidade vindo de fonte estável) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6eXIzbHhqam85eXJ6eXIzbHhqam85eXJ6eXIzbHhqam85eXJ6eXImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKMGpxV9EiZpP5m/giphy.gif" width="100%" height="250px" style="border-radius: 15px;" />
+  <!-- Banner Futurista Matrix de Largura Total -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6M3p6M3p6M3p6M3p6M3p6M3p6M3p6M3p6M3p6M3p6M3p6JmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/A06UFEx8jLU76/giphy.gif" width="100%" height="200px" />
 
   <br/>
 
-  <h1><img src="https://raw.githubusercontent.com/Martin0019/Martin0019/master/assets/hi.gif" width="35px"> Olá, eu sou o Joabe Souza!</h1>
+  <h1><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&height=50&lines=CORE+SYSTEM:+JOABE" alt="Typing SVG" /></h1>
 
   <p align="center">
-    <a href="README.pt-br.md">🇧🇷 **Português**</a> • <a href="README.md">🇺🇸 **English**</a>
+    <a href="README.pt-br.md">🟢 **Acessar Sistema (PT)**</a> | <a href="README.md">⚪ **Access System (EN)**</a>
   </p>
 
-  <img src="https://img.shields.io/badge/Status-Disponível_para_Projetos-2ECC71?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/badge/SECURITY_LEVEL-ENCRYPTED-2ECC71?style=for-the-badge&logo=opsgenie" />
 </div>
 
 <br/>
 
-### 👨‍💻 O "Motor" por trás do Código
-Sou um entusiasta de tecnologia e estudante de **Pós-graduação em Engenharia de Software**. Minha paixão é o **Backend**, onde transformo café em sistemas escaláveis usando **Java** e a nuvem **AWS**.
+### 📟 Terminal de Dados: /home/joabe
+Bem-vindo ao meu centro de comando. Sou um **Engenheiro de Software** focado em arquitetar o "código-fonte" de sistemas complexos. Especialista em construir o **Backend** resiliente que o futuro exige.
 
-- 🔭 **O que estou construindo:** Extensões com IA (**AudioPulse** & **StudyScribe**).
-- 🐍 **Contribuições Dinâmicas:** Meu histórico de código vira arte no jogo da cobrinha (ative nas Actions!).
-- 🧪 **Laboratório Técnico:** Especialista em **Docker**, **Microserviços** e bancos de dados relacionais.
-- 💬 **Bate-papo:** Quer falar sobre Matrix, Java ou como a IA vai mudar o mundo? Me chama!
+- 🛸 **Frequência Atual:** Pós-graduação em Engenharia de Software.
+- 🧪 **Laboratório IA:** Desenvolvendo extensões inteligentes (**AudioPulse** & **StudyScribe**).
+- 🌌 **Iniciativas:** Cloud AWS, Microserviços e Orquestração Docker.
+- 💬 **Protocolo de Comunicação:** Java, Spring e lógica pura.
 
 ---
 
-### 🛠️ Arsenal de Guerra (Tech Stack)
+### 📡 Arsenal Tecnológico (System Components)
 
 <div align="center">
-  <table>
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,aws,postgres,mysql,mongodb,linux,git,github,vscode,js,php,laravel&perline=8&theme=dark" />
+</div>
+
+---
+
+### 📊 Telemetria do Sistema (Stats)
+
+<div align="center">
+  <table border="0">
     <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
-        <br>Java
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring" />
-        <br>Spring Boot
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" />
-        <br>AWS Cloud
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-        <br>Docker
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="Postgres" />
-        <br>PostgreSQL
-      </td>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=joabdevelop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></td>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabdevelop&layout=compact&theme=tokyonight&hide_border=true" /></td>
     </tr>
   </table>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=joabdevelop&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-### 📊 Painel de Controle (Stats)
-
+### 🐍 Snake Protocol (Activity Grid)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joabdevelop&show_icons=true&theme=leaf&hide_border=true&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabdevelop&layout=compact&theme=leaf&hide_border=true" width="40%" />
+  <img src="https://raw.githubusercontent.com/joabdevelop/joabdevelop/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
-### 🎯 Metas de Engenharia para 2026
-- [ ] Concluir Pós-graduação em Eng. de Software 🎓
-- [ ] Certificação AWS Certified Cloud Practitioner ☁️
-- [ ] Dominar Kubernetes para orquestração avançada 🐳
-- [ ] Contribuir em grandes projetos Open Source 🌍
-
----
-
-### 📬 Vamos nos conectar?
+### 🔗 Sincronizar Frequência
 <div align="center">
   <a href="https://linkedin.com/in/joabdevelop" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=2ECC71&labelColor=000000" />
   </a>
   <a href="mailto:joabdevelop@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=2ECC71&labelColor=000000" />
   </a>
 </div>
 

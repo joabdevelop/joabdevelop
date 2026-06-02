@@ -1,16 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=00FF41&height=200&section=header&text=JOABE%20SOUZA&fontSize=80&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20DEVELOPER&descAlignY=62&descFontSize=20" width="100%" />
+  
+  <!-- Smooth Forest Matrix Banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&height=100&lines=JOABE+SOUZA;Software+Engineer;Backend+Developer;Java+%26+Cloud+AWS" alt="Typing SVG" />
 
-  <br />
+  <p align="center">
+    <a href="README.pt-br.md">🇧🇷 **Portuguese**</a> • <a href="README.md">🇺🇸 **English**</a>
+  </p>
 
-  <a href="README.pt-br.md">🇧🇷 **Portuguese**</a> • <a href="README.md">🇺🇸 **English**</a>
+  <br/>
 
-  <br /><br />
+  <!-- Smooth Matrix Badges -->
+  <img src="https://img.shields.io/badge/JAVA-%232ECC71?style=for-the-badge&logo=openjdk&logoColor=black" />
+  <img src="https://img.shields.io/badge/SPRING_BOOT-%232ECC71?style=for-the-badge&logo=spring-boot&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-%232ECC71?style=for-the-badge&logo=amazon-aws&logoColor=black" />
+  <img src="https://img.shields.io/badge/DOCKER-%232ECC71?style=for-the-badge&logo=docker&logoColor=black" />
 
-  <img src="https://img.shields.io/badge/JAVA-%2300FF41?style=for-the-badge&logo=openjdk&logoColor=black" />
-  <img src="https://img.shields.io/badge/SPRING_BOOT-%2300FF41?style=for-the-badge&logo=spring-boot&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-%2300FF41?style=for-the-badge&logo=amazon-aws&logoColor=black" />
-  <img src="https://img.shields.io/badge/DOCKER-%2300FF41?style=for-the-badge&logo=docker&logoColor=black" />
 </div>
 
 <br />
@@ -25,7 +29,7 @@ Hi! I'm **Joabe**, a developer focused on building the "engine" of applications.
 
 ---
 
-### 🛠️ Technical Arsenal (Matrix Stack)
+### 🛠️ Technical Arsenal (Dark Stack)
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,mongodb,docker,aws,linux,git,github,vscode,js,php,laravel&perline=8&theme=dark" />
@@ -35,13 +39,14 @@ Hi! I'm **Joabe**, a developer focused on building the "engine" of applications.
 
 ### 📊 Activity Diagnostic
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joabdevelop&show_icons=true&theme=matrix&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabdevelop&layout=compact&theme=matrix&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joabdevelop&show_icons=true&theme=leaf&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabdevelop&layout=compact&theme=leaf&hide_border=true" />
 </div>
 
 <br/>
 
 ### 🐍 Snake Game (Contributions)
+<!-- Animation will appear after enabling write permissions in repo Actions -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/joabdevelop/joabdevelop/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
@@ -51,15 +56,15 @@ Hi! I'm **Joabe**, a developer focused on building the "engine" of applications.
 ### 📬 Enter the Matrix
 <div align="center">
   <a href="https://linkedin.com/in/joabdevelop" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-%2300FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LINKEDIN-%232ECC71?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="mailto:joabdevelop@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-%2300FF41?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/EMAIL-%232ECC71?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joabdevelop&color=00FF41&style=flat-square&label=TERMINAL+ACCESS" />
+  <img src="https://komarev.com/ghpvc/?username=joabdevelop&color=2ECC71&style=flat-square&label=TERMINAL+ACCESS" />
 </div>

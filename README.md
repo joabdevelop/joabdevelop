@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Banner Moderno e Tecnológico -->
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;" />
+  <!-- Banner Moderno e Tecnológico (Verde) -->
+  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1000&auto=format&fit=crop" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;" />
 
   <br/>
   <br/>
